@@ -2,7 +2,8 @@ Rencana Content Aji
 
 - Javascript
   * ES6
-  * Framework Javascript  
+  * Framework Javascript
+- Struktur Data Dasar
 - PHP Framework
 - Interview
 - Vlog
