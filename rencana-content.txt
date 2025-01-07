@@ -1,10 +1,11 @@
 Rencana Content Aji
 
 - Javascript
-  * ES6
-  * Framework Javascript
+ * ES6
+ * Framework Javascript
   ^ Vue
   ^ React
+  ^ Angular
 - Struktur Data Dasar
 - PHP Framework
  ^ Laravel
